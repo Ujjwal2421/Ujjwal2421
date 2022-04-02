@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ujjwal Sharma
-- 🌱 My Teck Stack is Java, Python, JavaScript, PHP 
+- 🌱 Learning DevOps 
+- Tools -> Linux, Docker, Jenkins, K8s, Ansible, AWS/Civo Cloud Computing
 
 
 <!---
