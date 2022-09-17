@@ -26,7 +26,7 @@
   ---
 
 ### :woman_technologist: About Me :-
-  I am currently student pursuing Bachelor's of Computer Applications(BCA)  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+  I did my graduation from Bharati Vidyapeeth University in Bachelor's of Computer Applications(BCA)  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   
   - :seedling: Exploring Technical Content Writing and learning DevOps.
 
