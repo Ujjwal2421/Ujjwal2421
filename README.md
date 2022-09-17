@@ -42,7 +42,7 @@
 <img src="https://imgs.search.brave.com/sQORkN769gC0dK5wtG1sy1gZGfvuB5aLDi3o2iNpT6w/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS1leHAxLmxpY2Ru/LmNvbS9kbXMvaW1h/Z2UvQzRFMEJBUUVG/MHhfcTdtNUpqUS9j/b21wYW55LWxvZ29f/MjAwXzIwMC8wLzE1/OTk5MzI2MzI5NzE_/ZT0yMTU5MDI0NDAw/JnY9YmV0YSZ0PTY4/S0NWTG1vdlBtaEFU/RDNoN09NbmhWT1dm/Z2R3MUJwSEdUMGhU/LWxCRXM" height="40" width="40"  hspace="20">
 </a>
 <a href="https://leetcode.com/UjjwalSharma/">
-<img src="https://imgs.search.brave.com/zFp0raogYLzeHGp7IFprO8AehBlqA7C_VSJE82x8Ae0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jb2Rl/cmFreS5jb20vaW1h/Z2VzL2ljb25zL2xl/ZXRjb2RlLnBuZw" height="40" width="40"  hspace="20" >
+<img src="https://imgs.search.brave.com/zFp0raogYLzeHGp7IFprO8AehBlqA7C_VSJE82x8Ae0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jb2Rl/cmFreS5jb20vaW1h/Z2VzL2ljb25zL2xl/ZXRjb2RlLnBuZw" height="50" width="50"  hspace="20" >
 </a>
 <a href="https://www.codingninjas.com/codestudio/profile/Ujjwal_Sharma">
 <img src="https://imgs.search.brave.com/w-v8zK0oVOCoNkDWmGii2k_IpB8fxaWdCECTRoT3q_U/rs:fit:691:667:1/g:ce/aHR0cHM6Ly9maWxl/cy5jb2RpbmduaW5q/YXMuaW4vMDAwMDAw/MDAwMDAwMDcyMy5q/cGc" height="40" width="40"  hspace="20" >
