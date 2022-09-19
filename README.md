@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/ujjwal-sharma-57797b221">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://imgs.search.brave.com/WxAFQFlbLBu0JGlIg5jzieu4P8SKTeuftTxUD7jtQ_Y/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvbGlu/a2VkaW4taWNvbi1s/b2dvLXBuZy10cmFu/c3BhcmVudC5wbmc)"/>
     </a>
   
   <a href="https://twitter.com/Ujjwal33631720">
