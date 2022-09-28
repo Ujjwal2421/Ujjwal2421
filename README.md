@@ -33,7 +33,7 @@
 
   - :zap:I solve problems on GeeksforGeeks, LeetCode and Code studio  and read tech articles.
 
-- :mailbox:Let's Connect: <a href="https://www.linkedin.com/in/ujjwal-sharma-57797b221/"> LinkedIn </a> <a href="https://twitter.com/Ujjwal33631720">Twitter</a> <a href="https://t.me/UjjwalSharma2001"> Telegram </a>
+- :mailbox:Let's Connect: <a href="https://www.linkedin.com/in/ujjwal-sharma-57797b221/" target=""> LinkedIn </a> <a href="https://twitter.com/Ujjwal33631720">Twitter</a> <a href="https://t.me/UjjwalSharma2001"> Telegram </a>
   ---
 
 <div> 
