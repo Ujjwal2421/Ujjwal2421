@@ -33,8 +33,7 @@
 
   - :zap:I solve problems on GeeksforGeeks, LeetCode and Code studio  and read tech articles.
 
-- :mailbox:Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/-Ujjwal-blue?style=flat&logo=Linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-  
+- :mailbox:Let's Connect: <a href="https://www.linkedin.com/in/ujjwal-sharma-57797b221/"> LinkedIn </a> <a href="https://twitter.com/Ujjwal33631720">Twitter</a>
   ---
 
 <div> 
