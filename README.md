@@ -31,7 +31,7 @@
   
   - :seedling: Exploring Technical Content Writing and learning DevOps.
 
-  - :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode and Code studio  and read tech articles.
+  - :zap:I solve problems on GeeksforGeeks, LeetCode and Code studio  and read tech articles.
 
 - :mailbox:Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/-Ujjwal-blue?style=flat&logo=Linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
   
